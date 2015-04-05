@@ -27,7 +27,7 @@ angular.module('starter.services', [])
   }, {
     id: 4,
     name: 'Perry Governor',
-    lastText: 'Look at my mukluks!',
+    lastText: 'Match me plz!',
     face: 'https://pbs.twimg.com/profile_images/491995398135767040/ie2Z_V6e.jpeg'
   }];
 
